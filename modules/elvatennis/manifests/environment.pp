@@ -1,0 +1,2 @@
+class elvatennis::environment {
+}
