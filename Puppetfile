@@ -62,7 +62,7 @@ github "xquartz",     "1.2.1"
 # https://github.com/boxen.
 
 github "atom",        "1.2.0"
-github "packer",      "1.3.0"
+github "packer",      "0.6.1"
 github "vagrant",     "3.3.0"
 github "iterm2",      "1.2.4"
 github "tmux",        "1.0.2"
